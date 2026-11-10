@@ -1,1 +1,3 @@
-# brief-feed-k7q2m9
+# brief-feed
+
+Alexa Flash Briefing feed for the morning brief. Updated daily by a scheduled task.
